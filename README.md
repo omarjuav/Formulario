@@ -1,2 +1,2 @@
-# Formul-rio
-Primeiro formulário feito no sublime usando bootstrap
+# Formulário
+Primeiro formulário feito com sublime usando "bootstrap"
